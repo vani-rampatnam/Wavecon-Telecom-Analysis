@@ -29,7 +29,7 @@ How to recover lost market share and revenue?
 
 Power BI → Dashboards, KPI cards, visual storytelling
 
-Excel → Data cleaning, aggregation
+Power Query → Data cleaning, aggregation
 
 DAX → Custom measures for KPIs
 
