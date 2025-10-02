@@ -67,7 +67,7 @@ Improve customer retention strategies to regain market share.
 
 📂 Repository Structure
 📂 Telecom-Analysis
- ┣ 📊 PowerBI_Dashboard.pbix   # Interactive dashboard
+ ┣ 📊 Live Dashboard:   https://app.powerbi.com/groups/me/reports/cdf66c8f-cc95-490a-9709-0151be1b7929/ReportSection16b73cde20cf3ed17b51?experience=power-bi&bookmarkGuid=Bookmarkdc4b6a370e08a09f49e2
  ┣ 📑 Telecom_Analysis_Report.pdf  # Detailed findings & recommendations
  ┣ 📜 README.md   # Documentation (this file)
  ┗ 📂 Data (sample or anonymized)
